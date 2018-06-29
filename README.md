@@ -1,4 +1,4 @@
-## Fullstack Authorization using ReactJS & NodeJS with PostgreSQL
+## Fullstack Authentication using ReactJS & NodeJS with PostgreSQL
 
 ### Frontend components
 
@@ -10,5 +10,5 @@
 ### Backend components
 
 * Database connection to PostgreSQL
-* Endpoints for each authorization module ( login, signup, etc )
+* Endpoints for each authentication module ( login, signup, etc )
 
